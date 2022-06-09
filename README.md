@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arupreza
+- 👋 Hi, I’m @Reza
 - 👀 I’m interested in Data Analysis and AI
 - 🌱 I’m currently learning reinforcement learning
 
