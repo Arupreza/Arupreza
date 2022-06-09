@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reza
-- 👀 I’m interested in Data Analysis and AI
+- 👀 I’m interested in Data Analysis, AI, vulnerability analysis 
 - 🌱 I’m currently learning reinforcement learning
 
 
