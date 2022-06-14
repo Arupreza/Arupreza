@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Reza
 - 👀 I’m interested in Data Analysis, AI, Vulnerability analysis 
-- 🌱 I’m currently learning reinforcement learning
-
+- 🌱 I’m currently learning Pytorch
 
 <!---
 Arupreza/Arupreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
