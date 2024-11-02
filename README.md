@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Md Rezanur Islam
 - 👀 I’m interested in Security Mechanism with AI
-- 🌱 I’m currently learning Malware Analysis
+- 🌱 I’m currently learning MLops and GPU Programming
 - 📫 How to reach me through arupreza@sch.ac.kr/aruphimonix@gmail.com
 
 <!---
