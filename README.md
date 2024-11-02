@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Md Rezanur Islam
 - 👀 I’m interested in Security Mechanism with AI
 - 🌱 I’m currently learning Malware Analysis
-- 📫 How to reach me through arupreza@sch.ac.kr
+- 📫 How to reach me through arupreza@sch.ac.kr/aruphimonix@gmail.com
 
 <!---
 Arupreza/Arupreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
