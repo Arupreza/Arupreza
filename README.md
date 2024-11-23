@@ -2,7 +2,9 @@
 <h3 align="center">Data Scientist | ML Engineer | In-Vehicle Network Security Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=I+am+passionate+about+harnessing+the+power+of+Artificial+Intelligence+to+solve+real-world+problems.;With+a+background+in+in-vehicle+network+security+and+a+strong+focus+on+Machine+Learning,;my+work+spans+driving+behavior+analysis,+anomaly+detection+in+vehicle+networks,;Computer+Vision,+NLP+applications,+and+in-vehicle+network+data+analysis." alt="Typing animation" />
+  <a href="https://github.com/Arupreza">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=I+am+passionate+about+harnessing+the+power+of+Artificial+Intelligence.;With+a+background+in+in-vehicle+network+security+and+Machine+Learning.;My+work+spans+driving+behavior+analysis,+anomaly+detection,+and+NLP.;Computer+Vision,+and+in-vehicle+network+data+analysis." alt="Typing Animation" />
+  </a>
 </p>
 
 - 🔭 **Current Focus**:  
@@ -46,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
