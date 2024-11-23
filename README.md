@@ -64,10 +64,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arupreza&show_icons=true&locale=en" alt="arupreza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arupreza&show_icons=true&locale=en&count_private=true&hide_title=false" alt="arupreza" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arupreza&show_icons=true&locale=en&layout=compact" alt="arupreza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arupreza&show_icons=true&locale=en&layout=compact&count_private=true" alt="arupreza" />
 </p>
 
 ---
