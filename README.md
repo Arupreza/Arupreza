@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Rezanur Islam</h1>
 <h3 align="center">Data Scientist | ML Engineer | In-Vehicle Network Security Researcher</h3>
 
-<p align="center">I am passionate about harnessing the power of Artificial Intelligence to solve real-world problems. With a background in in-vehicle network security and a strong focus on Machine Learning, my work spans driving behavior analysis, anomaly detection in vehicle networks, Computer Vision, NLP applications, and in-vehicle network data analysis.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=I+am+passionate+about+harnessing+the+power+of+Artificial+Intelligence+to+solve+real-world+problems.;With+a+background+in+in-vehicle+network+security+and+a+strong+focus+on+Machine+Learning,;my+work+spans+driving+behavior+analysis,+anomaly+detection+in+vehicle+networks,;Computer+Vision,+NLP+applications,+and+in-vehicle+network+data+analysis." alt="Typing animation" />
+</p>
 
 - 🔭 **Current Focus**:  
   I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.
