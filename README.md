@@ -1,24 +1,75 @@
 <h1 align="center">Hi 👋, I'm Md Rezanur Islam</h1>
-<h3 align="center">A passionate Data Scientist and ML Engineer</h3>
+<h3 align="center">Data Scientist | ML Engineer | Cybersecurity Researcher</h3>
 
-- 🔭 I’m currently working on **Driving Sentiment Ditechtion**
+<p align="center">I am passionate about harnessing the power of Artificial Intelligence to solve real-world problems. With a background in cybersecurity and a strong focus on Machine Learning, my work spans driving behavior analysis, anomaly detection in vehicle networks, and NLP applications.</p>
 
-- 🌱 I’m currently learning **NLP and MlOps**
+- 🔭 **Current Focus**:  
+  I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.
 
-- 👯 I’m looking to collaborate on **Natural Language Processing (NLP)**
+- 🌱 **Learning Goals**:  
+  Deep diving into **Natural Language Processing (NLP)** and **MLOps** to build scalable and efficient AI systems.
 
-- 🤝 I’m looking for help with **MlOps**
+- 👯 **Collaboration Interests**:  
+  Open to collaborations in **NLP projects** and **MLOps workflows**.
 
-- 📝 My research article [https://www.researchgate.net/profile/Md-Islam-1381](https://www.researchgate.net/profile/Md-Islam-1381)
+- 🤝 **Seeking Assistance**:  
+  Looking for insights and tools to enhance my expertise in **MLOps pipelines**.
 
-- 📫 How to reach me **arupreza@sch.ac.kr/aruphimonix@gmail.com**
+- 📝 **Publications**:  
+  Explore my research articles on [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
 
-<h3 align="left">Connect with me:</h3>
+- 📫 **Contact Me**:  
+  Feel free to reach out via **arupreza@sch.ac.kr** or **aruphimonix@gmail.com**.
+
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arupreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arupreza" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arupreza" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arupreza" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arupreza&show_icons=true&locale=en&layout=compact" alt="arupreza" /></p>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arupreza&show_icons=true&locale=en" alt="arupreza" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arupreza&show_icons=true&locale=en&layout=compact" alt="arupreza" />
+</p>
+
+---
+
+<h3 align="center">✨ "The best way to predict the future is to create it." ✨</h3>
