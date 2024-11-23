@@ -62,10 +62,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a>
   <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ONNX_Logo.svg" alt="onnx" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/O/open-neural-network-exchange-onnx-logo-409959F1B2-seeklogo.com.png" alt="onnx" width="40" height="40"/> 
   </a> 
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://mlflow.org/docs/latest/_static/images/icon.svg" alt="mlflow" width="40" height="40"/> 
+    <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="mlflow" width="40" height="40"/> 
   </a> 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> 
