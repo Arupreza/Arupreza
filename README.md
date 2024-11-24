@@ -71,6 +71,8 @@
 </p>
 
 ---
+
+<h3 align="center">T-Rex Runner Game</h3>
 <p align="center">
   <img src="./assets/dino.gif" alt="T-Rex Runner Game" />
 </p>
