@@ -75,7 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://dvc.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://dvc.org/static/img/logo-dark.svg" alt="dvc" width="60" height="40"/> 
+    <img src="https://github.com/iterative/dvc.org/blob/main/static/img/logo-dark.svg?raw=true" alt="dvc" width="60" height="40"/> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="kubernetes" width="60" height="40"/> 
