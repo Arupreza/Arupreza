@@ -68,11 +68,16 @@
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="mlflow" width="40" height="40"/> 
   </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> 
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer"> 
+    <img src="./assets/dvc-logo.svg" alt="dvc" width="40" height="40"/> 
   </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</p>
+
+---
+
+<h3 align="center">T-Rex Runner Game</h3>
+<p align="center">
+  <img src="./assets/dino.gif" alt="T-Rex Runner Game" />
 </p>
 
 ---
