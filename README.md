@@ -80,5 +80,5 @@
 </p>
 
 ---
-
+![Depthwise-Separable Convolution Animation](https://github.com/your-username/your-repository-name/blob/main/assets/your-gif-file.gif)
 <h3 align="center">✨ "The best way to predict the future is to create it." ✨</h3>
