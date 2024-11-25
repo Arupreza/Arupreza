@@ -9,13 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Depthwise-Separable Convolution Animation" />
-</p>
-
-
----
-
 - 🔭 **Current Focus**:  
   I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.
 
@@ -89,5 +82,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Depthwise-Separable Convolution Animation" width="500" height="auto" />
+</p>
+
 
 <h3 align="center">✨ "The best way to predict the future is to create it." ✨</h3>
