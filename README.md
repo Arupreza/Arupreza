@@ -7,6 +7,16 @@
   </a>
 </p>
 
+---
+
+### Depthwise-Separable Convolution Animation
+
+<p align="center">
+  <img src="https://github.com/your-username/your-repository-name/blob/main/assets/your-gif-file.gif" alt="Depthwise-Separable Convolution Animation" />
+</p>
+
+---
+
 - 🔭 **Current Focus**:  
   I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.
 
@@ -80,5 +90,5 @@
 </p>
 
 ---
-![Depthwise-Separable Convolution Animation](https://github.com/your-username/your-repository-name/blob/main/assets/your-gif-file.gif)
+
 <h3 align="center">✨ "The best way to predict the future is to create it." ✨</h3>
