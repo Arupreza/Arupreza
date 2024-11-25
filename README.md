@@ -84,9 +84,10 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Anim.gif" alt="Animation 1" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Anim.gif" alt="Animation 1" width="300" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="300" style="vertical-align: middle; margin: 10px;" />
 </div>
+
 
 
 <h3 align="center">✨ "The best way to predict the future is to create it." ✨</h3>
