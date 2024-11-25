@@ -91,4 +91,4 @@
 
 
 
-<h3 align="center">✨ "Artificial Intelligence is the tool that turns data into discovery, unlocking the unseen potential of the world." ✨</h3>
+<h3 align="center">✨ "The best way to predict the future is to create it.." ✨</h3>
