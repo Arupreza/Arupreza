@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=I+am+passionate+about+harnessing+the+power+of+Artificial+Intelligence.;With+a+background+in+in-vehicle+network+security+and+Machine+Learning.;My+work+spans+driving+behavior+analysis,+anomaly+detection,+and+NLP,;Computer+Vision,+and+in-vehicle+network+data+analysis." alt="Typing Animation" />
   </a>
 </p>
-
 ---
 
 - 🔭 **Current Focus**:  
