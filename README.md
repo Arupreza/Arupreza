@@ -12,7 +12,7 @@
 ### Depthwise-Separable Convolution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/assets/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Depthwise-Separable Convolution Animation" />
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Depthwise-Separable Convolution Animation" />
 </p>
 
 
