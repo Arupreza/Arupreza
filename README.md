@@ -67,6 +67,12 @@
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="mlflow" width="40" height="40"/> 
   </a> 
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="DVC.jpeg" alt="DVC Logo" width="40" height="40"/>
+  </a>
+  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
+      <img src="DagsHub.png" alt="DagsHub Logo" width="40" height="40"/>
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> 
   </a> 
