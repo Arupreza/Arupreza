@@ -112,7 +112,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="350" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="345" style="vertical-align: middle; margin: 10px;" />
   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/LLMs2.gif" alt="Animation 3" width="500" style="vertical-align: middle; margin: 10px;" />
 </div>
 
