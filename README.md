@@ -13,7 +13,7 @@
   I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.
 
 - 🌱 **Learning Goals**:  
-  Deep diving into **Large Language Model (LLM)**, **Langchain**, **Huggingface**, and **MLOps** to build scalable and efficient AI systems.
+  Deep diving into **Large Language Models (LLM)**, **Langchain**, **Huggingface**, and **MLOps** to build scalable and efficient AI systems.
 
 - 👯 **Collaboration Interests**:  
   Open to collaborations in **LLM projects**, **Generative AI applications**, and **MLOps workflows**.
@@ -23,6 +23,8 @@
   - Designing **Retrieval-Augmented Generation (RAG)** pipelines for enhanced performance.  
   - Customizing and fine-tuning Huggingface models for domain-specific use cases.  
   - Deploying AI models using various strategies for scalability and reliability.  
+  - Implementing **MLOps pipelines** for AI system deployment, monitoring, and optimization.  
+  - Utilizing tools like **Docker**, **MLflow**, and **Jenkins** for continuous integration and delivery in AI workflows.  
 
 - 📝 **Publications**:  
   Explore my research articles on [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
@@ -42,16 +44,9 @@
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
+
+#### **LLMs and AI Development**
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
@@ -61,12 +56,28 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
+  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+</p>
+
+#### **MLOps and Deployment Tools**
+<p align="left">
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="mlflow" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> 
+  </a>
+  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/DAGsHub/dagshub/blob/main/static/images/dagshub-logo.svg" alt="dagshub" width="40" height="40"/>
+  </a>
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://dvc.org/img/dvc_logo.svg" alt="dvc" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -74,7 +85,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Anim2.gif" alt="Animation 1" width="200" style="vertical-align: middle; margin: 10px;" />
   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="159" style="vertical-align: middle; margin: 10px;" />
-   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Rein.gif" alt="Animation 2" width="200" style="vertical-align: middle; margin: 10px;" />
+   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Rein.gif" alt="Animation 3" width="200" style="vertical-align: middle; margin: 10px;" />
 </div>
 
 <h3 align="center">✨ "The best way to predict the future is to create it." ✨</h3>
