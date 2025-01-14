@@ -13,10 +13,10 @@
   I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.
 
 - 🌱 **Learning Goals**:  
-  Deep diving into **Natural Language Processing (NLP)** and **MLOps** to build scalable and efficient AI systems.
+  Deep diving into **Large Language Model (LLM)** and **MLOps** to build scalable and efficient AI systems.
 
 - 👯 **Collaboration Interests**:  
-  Open to collaborations in **NLP projects** and **MLOps workflows**.
+  Open to collaborations in **LLM projects** and **MLOps workflows**.
 
 - 🤝 **Seeking Assistance**:  
   Looking for insights and tools to enhance my expertise in **MLOps pipelines**.
