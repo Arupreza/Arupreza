@@ -63,19 +63,19 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="Langchain.png" alt="LangChain Logo" width="40" height="40"/>
+    <img src="Langchain2.png" alt="LangChain Logo" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="OpenAI.png" alt="OpenAI Logo" width="40" height="40"/>
+    <img src="OpenAI2png" alt="OpenAI Logo" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="Ollama.png" alt="Ollama Logo" width="40" height="40"/>
+    <img src="Ollama2.png" alt="Ollama Logo" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="Antropic.png" alt="Anthropic Logo" width="40" height="40"/>
+    <img src="Antropic2.png" alt="Anthropic Logo" width="40" height="40"/>
   </a>
   <a href="https://groq.com/" target="_blank" rel="noreferrer">
-    <img src="groq.png" alt="Groq Logo" width="40" height="40"/>
+    <img src="Groq2.png" alt="Groq Logo" width="40" height="40"/>
   </a>
 </p>
 
