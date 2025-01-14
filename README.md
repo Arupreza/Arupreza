@@ -51,19 +51,19 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/Langchain.png" alt="LangChain" width="40" height="40"/>
+    <img src="Langchain.png" alt="LangChain Logo" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/OpenAI.png" alt="OpenAI" width="40" height="40"/>
+    <img src="OpenAI.png" alt="OpenAI Logo" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/Ollama.png" alt="Ollama" width="40" height="40"/>
+    <img src="Ollama.png" alt="Ollama Logo" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/Antropic.png" alt="Anthropic" width="40" height="40"/>
+    <img src="Antropic.png" alt="Anthropic Logo" width="40" height="40"/>
   </a>
   <a href="https://groq.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/groq.png" alt="Groq" width="40" height="40"/>
+    <img src="groq.png" alt="Groq Logo" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -79,30 +79,31 @@
 #### **MLOps and Deployment Tools**
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="40" height="40"/> 
   </a> 
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="40" height="40"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="40" height="40"/> 
   </a> 
   <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/DVC.jpeg" alt="DVC" width="40" height="40"/>
+    <img src="DVC.jpeg" alt="DVC Logo" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="MLflow" width="40" height="40"/> 
+    <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="MLflow Logo" width="40" height="40"/> 
   </a> 
   <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/DagsHub.png" alt="DagsHub" width="40" height="40"/>
+    <img src="DagsHub.png" alt="DagsHub Logo" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/> 
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/> 
   </a> 
 </p>
+
 
 
 ---
