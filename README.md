@@ -66,13 +66,13 @@
     <img src="Langchain2.png" alt="LangChain Logo" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="OpenAI2png" alt="OpenAI Logo" width="40" height="40"/>
+    <img src="OpenAI2.png" alt="OpenAI Logo" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
     <img src="Ollama3.jpg" alt="Ollama Logo" width="40" height="40"/>
   </a>
-  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="Antropic2.png" alt="Anthropic Logo" width="40" height="40"/>
+  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="Mistral.png" alt="Mistral Logo" width="40" height="40"/>
   </a>
   <a href="https://groq.com/" target="_blank" rel="noreferrer">
     <img src="Groq2.png" alt="Groq Logo" width="40" height="40"/>
