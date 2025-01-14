@@ -48,61 +48,62 @@
 #### **LLMs and AI Development**
 <p align="left"> 
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/100798338?s=200&v=4" alt="langchain" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/100798338?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
+  <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/138356156?s=200&v=4" alt="Ollama" width="40" height="40"/>
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.anthropic.com/assets/anthropic-icon.svg" alt="Anthropic" width="40" height="40"/>
+  </a>
+  <a href="https://groq.com/" target="_blank" rel="noreferrer">
+    <img src="https://groq.com/wp-content/uploads/2020/04/favicon.png" alt="Groq" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
   </a> 
-  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> 
   </a>
-
+</p>
 
 #### **MLOps and Deployment Tools**
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/> 
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="mlflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="DVC.jpeg" alt="DVC Logo" width="40" height="40"/>
-  </a>
-  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
-      <img src="DagsHub.png" alt="DagsHub Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://dvc.org/img/dvc_logo.svg" alt="DVC" width="40" height="40"/>
+  </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="MLflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/DAGsHub/dagshub/blob/main/static/images/dagshub-logo.svg" alt="DagsHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/> 
   </a> 
 </p>
+
 
 ---
 
