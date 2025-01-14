@@ -69,7 +69,7 @@
     <img src="OpenAI2png" alt="OpenAI Logo" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="Ollama2.png" alt="Ollama Logo" width="40" height="40"/>
+    <img src="Ollama3.jpg" alt="Ollama Logo" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
     <img src="Antropic2.png" alt="Anthropic Logo" width="40" height="40"/>
