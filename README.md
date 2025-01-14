@@ -56,6 +56,9 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> 
   </a>
+  <a href="https://ai.meta.com/tools/detectron2/" target="_blank" rel="noreferrer"> 
+    <img src="Detectron2.png" alt="Detectron2.png" width="40" height="40"/> 
+  </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" width="40" height="40"/>
   </a>
