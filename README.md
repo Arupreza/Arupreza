@@ -51,19 +51,19 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/100798338?s=200&v=4" alt="LangChain" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/Langchain.png" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/OpenAI.png" alt="OpenAI" width="40" height="40"/>
   </a>
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/138356156?s=200&v=4" alt="Ollama" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/Ollama.png" alt="Ollama" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.anthropic.com/assets/anthropic-icon.svg" alt="Anthropic" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/Antropic.png" alt="Anthropic" width="40" height="40"/>
   </a>
   <a href="https://groq.com/" target="_blank" rel="noreferrer">
-    <img src="https://groq.com/wp-content/uploads/2020/04/favicon.png" alt="Groq" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/groq.png" alt="Groq" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -91,13 +91,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
   </a> 
   <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://dvc.org/img/dvc_logo.svg" alt="DVC" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/DVC.jpeg" alt="DVC" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/images/logos/mlflow-logo.svg" alt="MLflow" width="40" height="40"/> 
   </a> 
   <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/DAGsHub/dagshub/blob/main/static/images/dagshub-logo.svg" alt="DagsHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/YourUsername/YourRepository/main/DagsHub.png" alt="DagsHub" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/> 
