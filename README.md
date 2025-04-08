@@ -97,7 +97,7 @@
     <img src="MLFlow.jpeg" alt="MLflow Logo" width="40" height="40"/> 
   </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="AirflowLogo.png" alt="Airflow Logo" width="40" height="40"/>
+    <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/> 
