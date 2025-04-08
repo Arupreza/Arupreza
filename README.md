@@ -99,13 +99,13 @@
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/> 
-  </a> 
-  </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="Grafana.jpeg" alt="Grafana Logo" width="40" height="40"/>
   </a>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/> 
+  </a> 
 </p>
 
 
@@ -113,7 +113,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="358" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="360" style="vertical-align: middle; margin: 10px;" />
   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Transformer.gif" alt="Animation 3" width="450" style="vertical-align: middle; margin: 10px;" />
 </div>
 
