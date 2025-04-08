@@ -27,7 +27,7 @@
   - Utilizing tools like **Docker**, **MLflow**, and **Jenkins** for continuous integration and delivery in AI workflows.  
 
 - 📝 **Publications**:  
-  Explore my research articles on [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
+  Explore my research articles on [Google Scholar](https://scholar.google.com/citations?user=x54whxoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
 
 - 📫 **Contact Me**:  
   Feel free to reach out via **arupreza@sch.ac.kr** or **aruphimonix@gmail.com**.
