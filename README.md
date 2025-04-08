@@ -84,9 +84,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="40" height="40"/> 
   </a> 
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="40" height="40"/> 
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/> 
   </a> 
@@ -112,7 +109,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="357" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/depthwise-separable-convolution-animation-3x3-kernel.gif" alt="Animation 2" width="358" style="vertical-align: middle; margin: 10px;" />
   <img src="https://raw.githubusercontent.com/Arupreza/Arupreza/main/Transformer.gif" alt="Animation 3" width="450" style="vertical-align: middle; margin: 10px;" />
 </div>
 
