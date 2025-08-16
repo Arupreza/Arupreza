@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rezanur Islam</h1>
-<h3 align="center">Data Scientist | ML Engineer | In-Vehicle Network Security Researcher</h3>
+<h3 align="center">Data Scientist | ML Engineer | In-Vehicle Network Safety & Security Researcher</h3>
 
 <p align="center">
   <a href="https://github.com/Arupreza">
