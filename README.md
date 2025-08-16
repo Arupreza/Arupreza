@@ -82,13 +82,10 @@
   </a>
 </p>
 
-#### **MLOps and Deployment Tools**
+#### **Deployment Tools**
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="40" height="40"/> 
@@ -106,9 +103,6 @@
     <img src="Grafana.jpeg" alt="Grafana Logo" width="40" height="40"/>
   </a>
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/> 
-  </a> 
 </p>
 
 
