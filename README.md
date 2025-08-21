@@ -90,14 +90,14 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="40" height="40"/> 
   </a> 
-  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+  <a href="https://DVC_1.org/" target="_blank" rel="noreferrer">
     <img src="DVC.jpeg" alt="DVC Logo" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="MLFlow.jpeg" alt="MLflow Logo" width="40" height="40"/> 
   </a> 
   <a href="https://dagshub.com" target="_blank" rel="noreferrer"> 
-    <img src="DagsHub.png" alt="DagsHub Logo" width="40" height="40"/> 
+    <img src="DAGS.png" alt="DagsHub Logo" width="40" height="40"/> 
   </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
