@@ -96,6 +96,9 @@
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="MLFlow.jpeg" alt="MLflow Logo" width="40" height="40"/> 
   </a> 
+  <a href="https://dagshub.com" target="_blank" rel="noreferrer"> 
+    <img src="DagsHub.png" alt="DagsHub Logo" width="40" height="40"/> 
+  </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
   </a>
