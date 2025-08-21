@@ -103,7 +103,7 @@
     <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
   </a>
   <a href="https://www.astronomer.io" target="_blank" rel="noreferrer">
-    <img src="Astronomer.jpg" alt="Astronomer Logo" width="40" height="40"/>
+    <img src="Astronomer.jpg" alt="Astronomer Logo" width="40" height="35"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="Grafana.jpeg" alt="Grafana Logo" width="40" height="35"/>
