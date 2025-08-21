@@ -94,7 +94,7 @@
     <img src="DVC_1.jpeg" alt="DVC Logo" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="MLFlow.jpeg" alt="MLflow Logo" width="40" height="40"/> 
+    <img src="MLFlow.jpeg" alt="MLflow Logo" width="40" height="35"/> 
   </a> 
   <a href="https://dagshub.com" target="_blank" rel="noreferrer"> 
     <img src="DAGS.jpg" alt="DagsHub Logo" width="40" height="40"/> 
@@ -103,7 +103,7 @@
     <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="Grafana.jpeg" alt="Grafana Logo" width="40" height="37"/>
+    <img src="Grafana.jpeg" alt="Grafana Logo" width="40" height="35"/>
   </a>
   </a>
 </p>
