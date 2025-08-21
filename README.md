@@ -91,13 +91,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="40" height="40"/> 
   </a> 
   <a href="https://dvc.org" target="_blank" rel="noreferrer">
-    <img src="DVC_!.jpeg" alt="DVC Logo" width="40" height="40"/>
+    <img src="DVC_1.jpeg" alt="DVC Logo" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="MLFlow.jpeg" alt="MLflow Logo" width="40" height="40"/> 
   </a> 
   <a href="https://dagshub.com" target="_blank" rel="noreferrer"> 
-    <img src="DAGS.png" alt="DagsHub Logo" width="40" height="40"/> 
+    <img src="DAGS.jpg" alt="DagsHub Logo" width="40" height="40"/> 
   </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
