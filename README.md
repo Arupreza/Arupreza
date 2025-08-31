@@ -99,12 +99,6 @@
   <a href="https://dagshub.com" target="_blank" rel="noreferrer"> 
     <img src="DAGS.jpg" alt="DagsHub Logo" width="40" height="40"/> 
   </a> 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="AirFlow.png" alt="Airflow Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.astronomer.io" target="_blank" rel="noreferrer">
-    <img src="Astronomer.jpg" alt="Astronomer Logo" width="40" height="35"/>
-  </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="Grafana.jpeg" alt="Grafana Logo" width="40" height="35"/>
   </a>
