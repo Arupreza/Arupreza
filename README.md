@@ -68,7 +68,7 @@
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
     <img src="Langchain2.png" alt="LangChain Logo" width="40" height="40"/>
   </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
     <img src="langgraph.png" alt="LangChain Logo" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
