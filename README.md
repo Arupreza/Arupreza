@@ -14,10 +14,10 @@
   I’m also exploring **Agentic AI systems** with reasoning, planning, and tool-use capabilities.  
 
 - 🌱 **Learning Goals**:  
-  Deep diving into **Large Language Models (LLM)**, **LangChain**, **Hugging Face**, and **MLOps** to build scalable and efficient AI systems.  
-  Applying **Reinforcement Learning with Human Feedback (RLHF)** to align LLMs with human values and preferences.  
-  Experimenting with **multi-agent frameworks** and **Constitutional AI** for safer, interpretable AI systems.  
-  Enhancing model **deployment strategies** for scalability and reliability.  
+  - Deep diving into **Large Language Models (LLM)**, **LangChain**, **Hugging Face**, and **MLOps** to build scalable and efficient AI systems.  
+  - Applying **Reinforcement Learning with Human Feedback (RLHF)** to align LLMs with human values and preferences.  
+  - Experimenting with **multi-agent frameworks** and **Constitutional AI** for safer, interpretable AI systems.  
+  - Enhancing model **deployment strategies** for scalability and reliability.  
 
 - 👯 **Collaboration Interests**:  
   Open to collaborations in **LLM projects**, **Generative AI applications**, and **MLOps workflows**.  
