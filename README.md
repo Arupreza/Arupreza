@@ -19,12 +19,15 @@
   Open to collaborations in **LLM projects**, **Generative AI applications**, and **MLOps workflows**.
 
 - 🤝 **Key Skills Gained**:  
-  - Building advanced **Generative AI applications** with Langchain and Huggingface.  
+  - Building advanced **Generative AI applications** with LangChain and Hugging Face.  
   - Designing **Retrieval-Augmented Generation (RAG)** pipelines for enhanced performance.  
-  - Customizing and fine-tuning Huggingface models for domain-specific use cases.  
-  - Deploying AI models using various strategies for scalability and reliability.  
+  - Customizing and fine-tuning Hugging Face models for **domain-specific use cases**.  
+  - Developing **Agentic AI systems** with reasoning, planning, and tool-use capabilities.  
+  - Applying **Reinforcement Learning with Human Feedback (RLHF)** to align LLMs with human values and preferences.  
+  - Experimenting with **multi-agent frameworks** and **Constitutional AI** for safer, interpretable AI systems.  
+  - Deploying AI models using various strategies for **scalability and reliability**.  
   - Implementing **MLOps pipelines** for AI system deployment, monitoring, and optimization.  
-  - Utilizing tools like **Docker**, **MLflow**, and **AWS** for continuous integration and delivery in AI workflows.  
+  - Utilizing tools like **Docker**, **MLflow**, and **AWS** for continuous integration and delivery (CI/CD) in AI workflows.  
 
 - 📝 **Publications**:  
   Explore my research articles on [Google Scholar](https://scholar.google.com/citations?user=x54whxoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
