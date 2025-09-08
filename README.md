@@ -10,8 +10,8 @@
 ---
 
 - 🔭 **Current Focus**:  
-  I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.  
-  I’m also exploring **Agentic AI systems** with reasoning, planning, and tool-use capabilities.  
+  - I’m working on **Driving Sentiment Detection** to enhance vehicle safety and user experience.  
+  - I’m also exploring **Agentic AI systems** with reasoning, planning, and tool-use capabilities.  
 
 - 🌱 **Learning Goals**:  
   - Deep diving into **Large Language Models (LLM)**, **LangChain**, **Hugging Face**, and **MLOps** to build scalable and efficient AI systems.  
@@ -20,14 +20,15 @@
   - Enhancing model **deployment strategies** for scalability and reliability.  
 
 - 👯 **Collaboration Interests**:  
-  Open to collaborations in **LLM projects**, **Generative AI applications**, and **MLOps workflows**.  
+  - Open to collaborations in **LLM projects**, **Generative AI applications**.  
 
 - 🤝 **Key Skills Gained**:  
   - Building advanced **Generative AI applications** with LangChain and Hugging Face.  
   - Designing **Retrieval-Augmented Generation (RAG)** pipelines for enhanced performance.  
   - Customizing and fine-tuning Hugging Face models for **domain-specific use cases**.  
+  - Developing **Agentic AI systems** with reasoning, planning, and tool-use capabilities.  
   - Implementing **MLOps pipelines** for AI system deployment, monitoring, and optimization.  
-  - Utilizing tools like **Docker**, **MLflow**, and **AWS** for continuous integration and delivery (CI/CD) in AI workflows.   
+  - Utilizing tools like **Docker**, **MLflow**, and **AWS** for continuous integration and delivery (CI/CD) in AI workflows.  
 
 - 📝 **Publications**:  
   Explore my research articles on [Google Scholar](https://scholar.google.com/citations?user=x54whxoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
