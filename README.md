@@ -24,7 +24,7 @@
   - Customizing and fine-tuning Huggingface models for domain-specific use cases.  
   - Deploying AI models using various strategies for scalability and reliability.  
   - Implementing **MLOps pipelines** for AI system deployment, monitoring, and optimization.  
-  - Utilizing tools like **Docker**, **MLflow**, and **Jenkins** for continuous integration and delivery in AI workflows.  
+  - Utilizing tools like **Docker**, **MLflow**, and **AWS** for continuous integration and delivery in AI workflows.  
 
 - 📝 **Publications**:  
   Explore my research articles on [Google Scholar](https://scholar.google.com/citations?user=x54whxoAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1381).
