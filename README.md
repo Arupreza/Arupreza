@@ -69,9 +69,9 @@
   <a href="https://ai.meta.com/tools/detectron2/" target="_blank" rel="noreferrer"> 
     <img src="Detectron2.png" alt="Detectron2.png" width="40" height="40"/> 
   </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Huggingface" width="40" height="40"/>
-  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="Hugging_Face.png" alt=Huggingface Logo" width="40" height="40"/>
+  </a> 
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
     <img src="Langchain2.png" alt="LangChain Logo" width="40" height="40"/>
   </a>
