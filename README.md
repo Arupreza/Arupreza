@@ -61,7 +61,7 @@
     <img src="Rust.png" alt="Rust Logo" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
+    <img src="Pytorch.png" alt="C++ Logo" width="40" height="40"/>
   </a> 
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> 
